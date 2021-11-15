@@ -1,4 +1,4 @@
-chicken
-chocolate
-cake
-ice-cream
+- chicken
+- chocolate
+- cake
+- ice-cream
